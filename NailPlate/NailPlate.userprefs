@@ -1,14 +1,14 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/NailAdd/UISingleton.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/NailAdd/GameControl.cs">
     <Files>
       <File FileName="Assets/Scripts/CreatPlate/ScanLine/ScaningLine.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/NailAdd/UISingleton.cs" Line="231" Column="18" />
+      <File FileName="Assets/Scripts/NailAdd/UISingleton.cs" Line="200" Column="18" />
       <File FileName="Assets/Scripts/NailAdd/AddNailPoint.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/NailAdd/MLine.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/SymmetricScript/SymmetricBase.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/Square_Lenth/Area_Lenth.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/NailAdd/GameControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/NailAdd/GameControl.cs" Line="189" Column="72" />
       <File FileName="Assets/Scripts/NailAdd/LinePoints.cs" Line="1" Column="1" />
       <File FileName="Assets/NGUI/Scripts/Interaction/UIButtonColor.cs" Line="1" Column="1" />
       <File FileName="Assets/NGUI/Scripts/Internal/NGUIDebug.cs" Line="1" Column="1" />

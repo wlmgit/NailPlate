@@ -189,6 +189,11 @@ public class UISingleton : MonoBehaviour {
 		for(int i=0;i<GameObject.FindGameObjectsWithTag("plane").Length;i++)
 			Destroy (GameObject.FindGameObjectsWithTag("plane")[i]);
 	}
+	void btn_cancel()
+	{
+		trash_menu.SetActive (false);
+		save_menu.SetActive (false);
+	}
 	void btn_draw()
 	{
 //		Debug.Log ("click");
@@ -197,6 +202,16 @@ public class UISingleton : MonoBehaviour {
 	}
 	bool Is_right=false;
 	public GameObject right_mune;
+	public GameObject trash_menu;
+	public GameObject save_menu;
+	void btn_trash()
+	{
+		trash_menu.SetActive(true);
+	}
+	void btn_save()
+	{
+		save_menu.SetActive (true);
+	}
 	void btn_right()
 	{
 		Hashtable right_args = new Hashtable();
